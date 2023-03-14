@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Test2"
+date:   2023-03-15 02:01:00 +0900
+excerpt: "md 파일에 마크다운 문법으로 작성하여 Github" 
+categories:
+    - Blog
+tags:
+    - [Blog, jekyll, Github, Git]
+
+last_modified_at: 2023-03-15
+---
+테스트 입니다.
