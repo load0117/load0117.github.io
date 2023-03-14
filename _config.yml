@@ -1,0 +1,8 @@
+theme               : jekyll-theme-minimal
+
+locale              : "ko_KR"
+title               : "HK BLOG"
+title_separator     : "_"
+name                : "HK"
+url                 : "https://load0117.github.io"
+baseurl             : ""
